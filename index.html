@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Couple Card Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <h1>Couple Card Game</h1>
+      <p>Tap “Next Card” to play.</p>
+    </header>
+
+    <main class="main">
+      <div class="card">
+        <div id="card-type" class="card-type">Tap Next Card</div>
+        <div id="card-text" class="card-text">
+          When you tap “Next Card”, a prompt will appear here.
+        </div>
+      </div>
+
+      <div class="controls">
+        <button id="btn-truth" class="btn">Truth / Sip</button>
+        <button id="btn-dare" class="btn">Dare</button>
+        <button id="btn-random" class="btn btn-primary">Next Card</button>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <button id="btn-reset" class="btn btn-secondary">Reset Deck</button>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
