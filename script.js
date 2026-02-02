@@ -1,4 +1,5 @@
 // Simple data: you can replace these with your own prompts later.
+
 const truthCards = [
   "What is one thing you secretly wish I would do more often?",
   "What is a fantasy involving us that you think about more than once?",
@@ -11,8 +12,7 @@ const truthCards = [
   "What’s something small I do that really excites you?",
   "What’s one thing you want more of?",
   "What’s the boldest thought you’ve had about me today?",
- 
-// Bold / deeper intimacy prompts
+  // Bold / deeper intimacy prompts
   "What is the most intense fantasy you’ve had about us that you haven’t told me?",
   "What’s something you’ve wanted me to do to you but were worried I might judge?",
   "If we had a “no consequences” night, what is one daring thing you’d want to try?",
@@ -36,7 +36,6 @@ const truthCards = [
   "What’s a bold way you’d want me to show that I “own” your attention in public (but still be discreet)?",
   "Have you ever been turned on just by the way I looked at you? Describe that look.",
   "If I asked you to design a daring date night, what’s the most adventurous part?"
-
 ];
 
 const dareCards = [
@@ -47,12 +46,11 @@ const dareCards = [
   "Describe, in detail, how you’d like our next date night to end.",
   "Look into my eyes for 20 seconds without laughing, then kiss me.",
   "Compliment three different parts of my body.",
-
   // Bold dares (touchy/intense but still non-explicit)
   "Let me guide your hands over me for one minute while I tell you exactly what I like and don’t like.",
   "Use only your mouth to give me a teasing “tour” of three parts of my body.",
   "Blindfold yourself and let me position your hands and lips where I want them.",
-  "Sit on my lap (or pull me into your lap)",
+  "Sit on my lap (or pull me into your lap).",
   "Put my hand exactly where you want it and tell me what you want from it.",
   "Lie back and let me explore you with my hands while you’re only allowed to react, not talk.",
   "Press me against a wall or surface and show me how much you want me—no words, just body language.",
@@ -67,8 +65,8 @@ const dareCards = [
   "Pick one item of your clothing for me to slowly remove, and you’re not allowed to help.",
   "Let me choose a body part and you focus all your kissing and touching there for 30 seconds.",
   "Wrap your arms and legs around me in the most possessive way you can.",
-  "Take my hand and slide it somewhere that would surprise me",
-  "Let me pin you down (or you pin me down) in a way that feels powerful but safe.", 
+  "Take my hand and slide it somewhere that would surprise me.",
+  "Let me pin you down (or you pin me down) in a way that feels powerful but safe.",
   "Give me a slow, lingering kiss that makes it hard to stop.",
   "Hold me as close as you can for 30 seconds without saying a word.",
   "Whisper exactly what you want from me later tonight.",
